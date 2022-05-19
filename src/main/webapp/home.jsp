@@ -9,7 +9,7 @@
 </head>
 
 <body>
-
+  I love JS
 </body>
 
 </html>
