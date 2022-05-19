@@ -8,6 +8,6 @@ public class HomeController {
   @RequestMapping("home")
   public String home() {
     System.out.println("Hi from /home");
-    return "home.jsp";
+    return "home";
   }
 }
